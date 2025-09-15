@@ -18,6 +18,4 @@ public class LinkedList1 {
         ll.addLast("Fifth");
         System.out.println(ll);
     }
-
-
 }
